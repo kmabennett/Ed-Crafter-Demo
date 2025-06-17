@@ -1,7 +1,7 @@
 {
   "id": "ec",
   "documentName": "Hamilton-letter3",
-  "iiifManifest": "/ed-crafter-demo/hamilton/iiif/manifest.json",
+  "iiifManifest": "/Ed-Crafter-Demo/hamilton/iiif/manifest.json",
   "transcriptionTypes": {
     "text": "Transcription"
   },
