@@ -1,0 +1,689 @@
+{
+	"@context": [
+		"http://www.w3.org/ns/anno.jsonld",
+		"http://iiif.io/api/presentation/3/context.json"
+	],
+	"id": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/iiif/manifest.json",
+	"type": "Manifest",
+	"items": [
+		{
+			"id": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/iiif/canvas/f000",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/iiif/canvas/f000/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/iiif/canvas/f000/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-08%2F170370.jpg",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 629,
+								"width": 934,
+								"service": [
+									{
+										"id": "https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-08%2F170370.jpg",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/iiif/canvas/f000"
+						}
+					]
+				}
+			],
+			"height": 629,
+			"width": 934,
+			"label": {
+				"none": [
+					"170370"
+				]
+			},
+			"annotations": [
+				{
+					"id": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/iiif/canvas/f000/annotationPage/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/iiif/canvas/f000/annotationPage/1/annotation/0",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/tei/PP-Test2-Text/f000.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/iiif/canvas/f000"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/iiif/canvas/f000/annotationPage/1/annotation/1",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/html/PP-Test2-Text/f000.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/iiif/canvas/f000"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/iiif/canvas/f001",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/iiif/canvas/f001/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/iiif/canvas/f001/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-08%2F170371.jpg",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 1000,
+								"width": 750,
+								"service": [
+									{
+										"id": "https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-08%2F170371.jpg",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/iiif/canvas/f001"
+						}
+					]
+				}
+			],
+			"height": 1000,
+			"width": 750,
+			"label": {
+				"none": [
+					"170371"
+				]
+			},
+			"annotations": [
+				{
+					"id": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/iiif/canvas/f001/annotationPage/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/iiif/canvas/f001/annotationPage/1/annotation/0",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/tei/PP-Test2-Text/f001.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/iiif/canvas/f001"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/iiif/canvas/f001/annotationPage/1/annotation/1",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/html/PP-Test2-Text/f001.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/iiif/canvas/f001"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/iiif/canvas/f002",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/iiif/canvas/f002/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/iiif/canvas/f002/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-08%2F170372.jpg",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 1000,
+								"width": 750,
+								"service": [
+									{
+										"id": "https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-08%2F170372.jpg",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/iiif/canvas/f002"
+						}
+					]
+				}
+			],
+			"height": 1000,
+			"width": 750,
+			"label": {
+				"none": [
+					"170372"
+				]
+			},
+			"annotations": [
+				{
+					"id": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/iiif/canvas/f002/annotationPage/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/iiif/canvas/f002/annotationPage/1/annotation/0",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/tei/PP-Test2-Text/f002.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/iiif/canvas/f002"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/iiif/canvas/f002/annotationPage/1/annotation/1",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/html/PP-Test2-Text/f002.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/iiif/canvas/f002"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/iiif/canvas/f003",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/iiif/canvas/f003/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/iiif/canvas/f003/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-08%2F170373.jpg",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 1000,
+								"width": 750,
+								"service": [
+									{
+										"id": "https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-08%2F170373.jpg",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/iiif/canvas/f003"
+						}
+					]
+				}
+			],
+			"height": 1000,
+			"width": 750,
+			"label": {
+				"none": [
+					"170373"
+				]
+			},
+			"annotations": [
+				{
+					"id": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/iiif/canvas/f003/annotationPage/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/iiif/canvas/f003/annotationPage/1/annotation/0",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/tei/PP-Test2-Text/f003.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/iiif/canvas/f003"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/iiif/canvas/f003/annotationPage/1/annotation/1",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/html/PP-Test2-Text/f003.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/iiif/canvas/f003"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/iiif/canvas/f004",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/iiif/canvas/f004/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/iiif/canvas/f004/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-08%2F022311.tif",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 4901,
+								"width": 6525,
+								"service": [
+									{
+										"id": "https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-08%2F022311.tif",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/iiif/canvas/f004"
+						}
+					]
+				}
+			],
+			"height": 4901,
+			"width": 6525,
+			"label": {
+				"none": [
+					"B1 verso – B2 recto"
+				]
+			},
+			"annotations": [
+				{
+					"id": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/iiif/canvas/f004/annotationPage/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/iiif/canvas/f004/annotationPage/1/annotation/0",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/tei/PP-Test2-Text/f004.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/iiif/canvas/f004"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/iiif/canvas/f004/annotationPage/1/annotation/1",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/html/PP-Test2-Text/f004.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/iiif/canvas/f004"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/iiif/canvas/f005",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/iiif/canvas/f005/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/iiif/canvas/f005/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-08%2F022312.tif",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 4894,
+								"width": 6545,
+								"service": [
+									{
+										"id": "https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-08%2F022312.tif",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/iiif/canvas/f005"
+						}
+					]
+				}
+			],
+			"height": 4894,
+			"width": 6545,
+			"label": {
+				"none": [
+					"B2 verso – B3 recto"
+				]
+			},
+			"annotations": [
+				{
+					"id": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/iiif/canvas/f005/annotationPage/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/iiif/canvas/f005/annotationPage/1/annotation/0",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/tei/PP-Test2-Text/f005.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/iiif/canvas/f005"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/iiif/canvas/f005/annotationPage/1/annotation/1",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/html/PP-Test2-Text/f005.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/iiif/canvas/f005"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/iiif/canvas/f006",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/iiif/canvas/f006/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/iiif/canvas/f006/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-08%2F022313.tif",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 4875,
+								"width": 6512,
+								"service": [
+									{
+										"id": "https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-08%2F022313.tif",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/iiif/canvas/f006"
+						}
+					]
+				}
+			],
+			"height": 4875,
+			"width": 6512,
+			"label": {
+				"none": [
+					"B3 verso – B4 recto"
+				]
+			},
+			"annotations": [
+				{
+					"id": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/iiif/canvas/f006/annotationPage/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/iiif/canvas/f006/annotationPage/1/annotation/0",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/tei/PP-Test2-Text/f006.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/iiif/canvas/f006"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/iiif/canvas/f006/annotationPage/1/annotation/1",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/html/PP-Test2-Text/f006.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/iiif/canvas/f006"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/iiif/canvas/f014",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/iiif/canvas/f014/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/iiif/canvas/f014/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-08%2F022328.tif",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 4816,
+								"width": 6551,
+								"service": [
+									{
+										"id": "https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-08%2F022328.tif",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/iiif/canvas/f014"
+						}
+					]
+				}
+			],
+			"height": 4816,
+			"width": 6551,
+			"label": {
+				"none": [
+					"D4 verso – D5 recto"
+				]
+			},
+			"annotations": [
+				{
+					"id": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/iiif/canvas/f014/annotationPage/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/iiif/canvas/f014/annotationPage/1/annotation/0",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/tei/PP-Test2-Text/f014.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/iiif/canvas/f014"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/iiif/canvas/f014/annotationPage/1/annotation/1",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/html/PP-Test2-Text/f014.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/iiif/canvas/f014"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/iiif/canvas/f015",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/iiif/canvas/f015/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/iiif/canvas/f015/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-08%2F022329.tif",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 4836,
+								"width": 6551,
+								"service": [
+									{
+										"id": "https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-08%2F022329.tif",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/iiif/canvas/f015"
+						}
+					]
+				}
+			],
+			"height": 4836,
+			"width": 6551,
+			"label": {
+				"none": [
+					"D5 verso – D6 recto"
+				]
+			},
+			"annotations": [
+				{
+					"id": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/iiif/canvas/f015/annotationPage/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/iiif/canvas/f015/annotationPage/1/annotation/0",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/tei/PP-Test2-Text/f015.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/iiif/canvas/f015"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/iiif/canvas/f015/annotationPage/1/annotation/1",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/html/PP-Test2-Text/f015.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://kmabennett.github.io/Ed-Crafter-Demo//passionate/iiif/canvas/f015"
+						}
+					]
+				}
+			]
+		}
+	],
+	"label": {
+		"en": [
+			"passionate"
+		]
+	},
+	"seeAlso": [
+		{
+			"id": "https://cu-mkp.github.io/editioncrafter-data/fr640_3r-3v-example/glossary.json",
+			"type": "Dataset",
+			"label": "Glossary",
+			"format": "text/json"
+		}
+	]
+}

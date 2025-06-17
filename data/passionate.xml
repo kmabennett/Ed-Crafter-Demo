@@ -1,0 +1,136 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader xml:id="header">
+		<fileDesc>
+			<titleStmt>
+				<title>The passionate pilgrime / by W. Shakespeare</title>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p/>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile sameAs="https://digitalcollections.folger.edu/node/72722/manifest" xml:id="facs-1">
+		<surface xml:id="f000" ulx="0" uly="0" lrx="934" lry="629" sameAs="https://digitalcollections.folger.edu/node/72722/canvas/282524">
+			<label>170370</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-08%2F170370.jpg"/>
+		</surface>
+		<surface xml:id="f001" ulx="0" uly="0" lrx="750" lry="1000" sameAs="https://digitalcollections.folger.edu/node/72722/canvas/282528">
+			<label>170371</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-08%2F170371.jpg"/>
+		</surface>
+		<surface xml:id="f002" ulx="0" uly="0" lrx="750" lry="1000" sameAs="https://digitalcollections.folger.edu/node/72722/canvas/282532">
+			<label>170372</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-08%2F170372.jpg"/>
+		</surface>
+		<surface xml:id="f003" ulx="0" uly="0" lrx="750" lry="1000" sameAs="https://digitalcollections.folger.edu/node/72722/canvas/282536">
+			<label>170373</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-08%2F170373.jpg"/>
+		</surface>
+		<surface xml:id="f004" ulx="0" uly="0" lrx="6525" lry="4901" sameAs="https://digitalcollections.folger.edu/node/72722/canvas/282468">
+			<label>B1 verso – B2 recto</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-08%2F022311.tif"/>
+		</surface>
+		<surface xml:id="f005" ulx="0" uly="0" lrx="6545" lry="4894" sameAs="https://digitalcollections.folger.edu/node/72722/canvas/282472">
+			<label>B2 verso – B3 recto</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-08%2F022312.tif"/>
+		</surface>
+		<surface xml:id="f006" ulx="0" uly="0" lrx="6512" lry="4875" sameAs="https://digitalcollections.folger.edu/node/72722/canvas/282476">
+			<label>B3 verso – B4 recto</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-08%2F022313.tif"/>
+		</surface>
+		<surface xml:id="f014" ulx="0" uly="0" lrx="6551" lry="4816" sameAs="https://digitalcollections.folger.edu/node/72722/canvas/282508">
+			<label>D4 verso – D5 recto</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-08%2F022328.tif"/>
+		</surface>
+		<surface xml:id="f015" ulx="0" uly="0" lrx="6551" lry="4836" sameAs="https://digitalcollections.folger.edu/node/72722/canvas/282512">
+			<label>D5 verso – D6 recto</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-08%2F022329.tif"/>
+		</surface>
+	</facsimile>
+	<text xml:id="PP-Test2-Text">
+		<body>
+			<div>
+				<p><pb facs="#f000"/><title>Passionate Pilgrim and Sonnets</title>, <date>1599</date>.</p>
+				<p>Lacks both title-page + other leaves-</p>
+				<p>In volume with Venus + A. - 1599</p>
+				<p>from R.F. Burton library -</p>
+				<p/>
+				<p/>
+				<p/>
+				<p>Bought through Quaritch, McL., [sic] <date>1920</date>-</p>
+				<p>
+					<pb facs="#f001"/>
+				</p>
+				<p/>
+				<p/>
+				<p/>
+				<p>Sothebys</p>
+				<p>
+					<pb facs="#f002"/>
+				</p>
+				<p>Sothebys</p>
+				<p/>
+				<p/>
+				<p/>
+				<p>
+					<pb facs="#f003"/>
+				</p>
+				<p>Sothebys entry</p>
+				<p/>
+				<p>
+					<pb facs="#f004"/>
+				</p>
+				<p>If Musicke and Sweet Poetry Agree (f004)</p>
+				<p/>
+				<p>
+					<pb facs="#f005"/>
+				</p>
+				<p>Faire was the morne when the sweet queen (f005)</p>
+				<p/>
+				<p/>
+				<p>
+					<pb facs="#f006"/>
+				</p>
+				<p>Sweet rose, faire flower, untimely pluckt (f006)</p>
+				<p/>
+				<p>
+					<pb facs="#f014"/>
+				</p>
+				<p>Liue with me and be my Loue, (f014)</p>
+				<p>And we will all the pleasures proue</p>
+				<p>That hilles and vallies, dales and fields,</p>
+				<p>And all the craggy moutaines yeeld.</p>
+				<p/>
+				<p>There will we sit vpon the Rocks,</p>
+				<p>And see the Shepheards feed their flocks,</p>
+				<p>By shallow Riuers, by whose fals</p>
+				<p>Melodious birds sing Madrigals.</p>
+				<p/>
+				<p>There will I make thee a bed of Roses,</p>
+				<p>With a tousand fragrant poses,</p>
+				<p>A cap of flowers, and a Kirtle</p>
+				<p>Imbrodered all with leaues of Mirtle.</p>
+				<p>[D5r]</p>
+				<p/>
+				<p>
+					<pb facs="#f015"/>
+				</p>
+				<p>A belt of straw and Yuye buds,</p>
+				<p>With Corall Clasps and Amber studs,</p>
+				<p>And if these pleasures may thee moue,</p>
+				<p>Then liue with me, and be my Loue.</p>
+				<p/>
+				<p>Loues answere.</p>
+				<p/>
+				<p>If that the World and Loue were young,</p>
+				<p>And truth in euery shepheards toung,</p>
+				<p>These pretty pleasures might me moue,</p>
+				<p>To liue with thee and be thy Loue.</p>
+				<p>[D6r]</p>
+			</div>
+		</body>
+	</text>
+</TEI>
