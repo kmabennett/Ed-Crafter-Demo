@@ -3,7 +3,7 @@
   "documentName": "Hamilton-letter",
   "iiifManifest": "/ed-crafter-demo/hamilton/iiif/manifest.json",
   "transcriptionTypes": {
-    "transcription": "Transcription"
+    "text": "Transcription"
   },
   "viewerUrl": "/ed-crafter-demo"
 }
